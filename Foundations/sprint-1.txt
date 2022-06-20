@@ -1,0 +1,27 @@
+# Command line
+
+-How would you describe the command line in plain English in a couple of sentences? 
+Can you think of an analogy for it?
+
+The command line is a way of entering instructions into a computer.
+In theory, a CLI could be used in place of most GUI interactions, if a program was designed as such.
+Unlike a GUI, we type commands into a CLI and receive an output, and/or changes are made which are not seen to us.
+
+-Did you learn anything unexpected?
+
+Top tip for cli: use [tab] key to autocomplete what you're typing.
+Very useful when typing directories.
+
+
+# Version Control With Git and Github
+
+-What's the difference between Git and GitHub?
+
+Git is a technology for interactiing with a repository.
+Github is a service where repositorys are stored.
+
+- Can you think of an analogy to describe them?
+
+Git is an atm usable with a range of banks. Github is your bank of choice.
+
+
